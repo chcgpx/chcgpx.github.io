@@ -1,2 +1,2 @@
-my personal web page
-# chcgpx.github.io
+# My personal web page
+> [chcgpx web](https://chcgpx.github.io/)
